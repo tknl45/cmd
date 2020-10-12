@@ -1,6 +1,6 @@
 @echo off
 
-SET CurrentDir="%~dp0"
+SET CurrentDir=%~dp0
 
 ECHO The current file path this bat file is executing in is the following:
 
